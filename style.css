@@ -1,0 +1,19 @@
+body{
+    background-color: ivory;
+}
+h1{
+    color: firebrick;
+    background-color: khaki;
+    opacity: 0.5;
+}
+h2{
+    color: #ffD700;
+    background-color: rgba(6, 29, 235, 0.801);
+}
+p.one{
+    color:rgb(46, 7, 218);
+    background-color: lightblue;
+}
+#two{
+    color: green;   
+}
